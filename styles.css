@@ -22,7 +22,6 @@ img {
     grid-template-columns: minmax(auto, .7fr) 3fr;
     grid-template-rows: 1fr 5fr;
     height: 100vh;
-    color:
 }
 
 .header {
